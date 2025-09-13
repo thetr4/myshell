@@ -1,6 +1,6 @@
 First:
 ```
-git clone https://github.com/Akldcx67/myshell.git
+git clone https://github.com/gspwm4/myshell.git
 ```
 then:
 
