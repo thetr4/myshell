@@ -87,7 +87,7 @@ int main(){
             continue;
         }
 
-        // Need to fix I/O redirection
+        // There is a bug with input-output redirection in this part of the code.
 
         int i = 1;
         while(i++ <= argc)
